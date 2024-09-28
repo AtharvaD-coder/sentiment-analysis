@@ -2,7 +2,11 @@
 
 This project implements a Python-based API built with Flask for sentiment analysis using a Large language Model (LLM), specifically the Mixtral model, integrated with the Groq API to process customer reviews. Users can upload CSV or XLSX files with reviews, and the system analyzes sentiment, returning aggregate scores for positive, negative, and neutral emotions.
 
+## Sample Output
 
+Below is a sample output of the sentiment analysis:
+
+![Sample Output](sample%20output.png)
 
 ## Tech Stack
  [![My Skills](https://skillicons.dev/icons?i=python,flask,tailwind,html,)](https://skillicons.dev)
